@@ -9,8 +9,6 @@ Welcome to Phone Hunter By JS! This web application allows you to search for pho
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
